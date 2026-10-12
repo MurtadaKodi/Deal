@@ -1,0 +1,21 @@
+[
+  {
+    "origin": [
+      "http://localhost:61344",
+      "http://localhost:52782",
+      "http://127.0.0.1:52782",
+      "http://localhost",
+      "http://127.0.0.1:3000",
+      "https://deal-4eb15.web.app",
+      "https://deal-4eb15.firebaseapp.com"
+    ],
+    "method": ["GET", "HEAD", "PUT", "POST", "DELETE"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": [
+      "Content-Type",
+      "Authorization",
+      "x-goog-meta-*"
+    ]
+  }
+]
+

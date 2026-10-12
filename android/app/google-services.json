@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529613539797",
+    "project_id": "deal-4eb15",
+    "storage_bucket": "deal-4eb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529613539797:android:25ecca7a9358ed54e0155c",
+        "android_client_info": {
+          "package_name": "com.example.deal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAr8m9r946Pb6iFsp1a8GaOQWT8_9ZGQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529613539797:android:3c17d0aad6dc449ae0155c",
+        "android_client_info": {
+          "package_name": "com.murtada.deal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAr8m9r946Pb6iFsp1a8GaOQWT8_9ZGQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
