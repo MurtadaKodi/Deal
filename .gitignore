@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
+.firebase/
+*.zip
 
 # Symbolication related
 app.*.symbols
